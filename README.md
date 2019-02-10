@@ -1,1 +1,1 @@
-# Lending-Case-Study
+# L Case-Study
